@@ -1,0 +1,13 @@
+export const RENT_BIKE_REQUEST = "RENT_BIKE_REQUEST"
+export const RENT_BIKE_SUCCESS = "RENT_BIKE_SUCCESS"
+export const RENT_BIKE_FAILURE = "RENT_BIKE_FAILURE"
+
+// fetching formData
+export const FETCH_RENT_REQUEST = "FETCH_RENT_REQUEST"
+export const FETCH_RENT_SUCCESS = "FETCH_RENT_SUCCESS"
+export const FETCH_RENT_FAIL = "FETCH_RENT_FAIL"
+
+// returning the bike fetching
+export const RETURN_BIKE_REQUEST = "RETURN_BIKE_REQUEST"
+export const RETURN_BIKE_SUCCESS = "RETURN_BIKE_SUCCESS"
+export const RETURN_BIKE_FAIL = "RETURN_BIKE_FAIL"

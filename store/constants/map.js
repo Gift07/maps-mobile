@@ -1,0 +1,2 @@
+export const FETCH_USER_LOCATION = "FETCH_USER_LOCATION"
+export const GET_ROUTE = "GET_ROUTE"
